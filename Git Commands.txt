@@ -1,0 +1,10 @@
+Git Commands
+
+ls
+cd path
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin
+https://github.com/repository-Link
+git push -u origin master
